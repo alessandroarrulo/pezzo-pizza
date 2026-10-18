@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pezzo Pizza · Luanda",
+      "hasCanvas": false,
+      "bodyTextLen": 1011,
+      "bodyTextHash": "c956e1aade330d2d3d8f59635e7b09f9193805763269b28d9bb5efc1676e8532",
+      "bodyTextPrefix": "Pezzo Online Cliente MAIANGA · LUANDA Mais sabor em cada fatia O",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pezzo Pizza · Luanda",
+      "hasCanvas": false,
+      "bodyTextLen": 1011,
+      "bodyTextHash": "c956e1aade330d2d3d8f59635e7b09f9193805763269b28d9bb5efc1676e8532",
+      "bodyTextPrefix": "Pezzo Online Cliente MAIANGA · LUANDA Mais sabor em cada fatia O",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

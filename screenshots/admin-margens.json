@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/admin",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pezzo Pizza · Luanda",
+      "hasCanvas": false,
+      "bodyTextLen": 831,
+      "bodyTextHash": "e44a5615557d68abe712b9e6b53ab6beb34641185ec6877155cfdf6b9859a931",
+      "bodyTextPrefix": "Pezzo Online Cliente Gestão · Cliente Pezzo, hoje Hoje Pedidos E",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/admin-margens.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pezzo Pizza · Luanda",
+      "hasCanvas": false,
+      "bodyTextLen": 831,
+      "bodyTextHash": "e44a5615557d68abe712b9e6b53ab6beb34641185ec6877155cfdf6b9859a931",
+      "bodyTextPrefix": "Pezzo Online Cliente Gestão · Cliente Pezzo, hoje Hoje Pedidos E",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/admin-margens-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/admin-margens.json"
+}
